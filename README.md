@@ -74,7 +74,7 @@ Tenho envolvimento ativo em projetos como:
 
 ## 📈 GitHub Stats (Repositórios Públicos)
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=denilsonbomjesus&show_icons=true&theme=tokyonight&hide_rank=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbomjesus&layout=compact&theme=dracula"/>
 </div>
