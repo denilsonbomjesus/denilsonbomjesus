@@ -59,6 +59,7 @@ Tenho envolvimento ativo em projetos como:
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![PDI](https://img.shields.io/badge/PDI-blue?style=flat-square)
 ![ML](https://img.shields.io/badge/Machine_Learning-blueviolet?style=flat-square)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
@@ -76,7 +77,7 @@ Tenho envolvimento ativo em projetos como:
 
 <div style="display: flex">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=denilsonbomjesus&show_icons=true&theme=tokyonight&hide_rank=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbomjesus&layout=compact&theme=dracula"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbomjesus&show_icons=true&theme=dracula&layout=donut&hide_border=true"/>
 </div>
 
 ---
